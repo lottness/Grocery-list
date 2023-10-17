@@ -1,0 +1,34 @@
+h1 {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+  }
+
+.canned {
+    background-color: rgb(185, 201, 252);
+    width: 200px;
+    padding: 5px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.pantry {
+    background-color: rgb(204, 214, 250);
+    width: 433px
+}
+
+.jars{
+    border: 2px solid rgb(134, 171, 250);
+    vertical-align: middle;
+    margin-bottom: 100px;
+    height: 150px;
+}
+
+.freezer{
+    border: 2px solid rgb(134, 171, 250);
+    vertical-align: middle;
+    margin-bottom: 100px;
+    height: 150px;
+    width: 200px
+}
